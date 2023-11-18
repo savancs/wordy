@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "783155279128",
+    "firebase_url": "https://wordy-list-default-rtdb.firebaseio.com",
+    "project_id": "wordy-list",
+    "storage_bucket": "wordy-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783155279128:android:2b810f88ed19d3b3169a6d",
+        "android_client_info": {
+          "package_name": "com.example.wordy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEjokjjjWm1pUDa65vnyzJ8NnXT45Bp4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
